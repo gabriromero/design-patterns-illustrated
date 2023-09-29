@@ -1,6 +1,4 @@
-package Strategy;
-
-import Strategy.Car;
+package _1_Strategy;
 
 public class Main {
     public static void main(String[] args) {

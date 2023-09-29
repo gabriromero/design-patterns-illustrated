@@ -1,4 +1,4 @@
-package Strategy;
+package _1_Strategy;
 
 public class SportStrategy implements DrivingModeStrategy{
 
